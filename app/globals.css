@@ -19,6 +19,12 @@
   --font-display: 'Bebas Neue', 'Arial Narrow', sans-serif;
   --font-sans: 'DM Sans', sans-serif;
   --font-mono: 'DM Mono', monospace;
+  --btn-gradient: linear-gradient(90deg,
+      #06b6d4,
+      #3b82f6,
+      #8b5cf6,
+      #ec4899,
+      #06b6d4);
 }
 
 * {

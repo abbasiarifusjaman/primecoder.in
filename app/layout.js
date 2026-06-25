@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 
 export const metadata = {
-  title: "PrimeCoder — Engineered Excellence",
+  title: "Prime Coder — App & Web Development, Guwahati, Assam",
   description:
     "Full-stack development agency building high-performance web, mobile, and cloud software for modern businesses.",
 };
